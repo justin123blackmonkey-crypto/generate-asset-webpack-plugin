@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Justin Unblock Games</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to Justin Unblock Games</h1>
+        <p>Your go-to place for unblocked games!</p>
+    </header>
+
+    <main>
+        <section class="game-list" aria-label="Game list">
+            <!-- Game cards will be dynamically added here -->
+        </section>
+    </main>
+
+    <footer>
+        <p>Check out Roblox and TikTok below!</p>
+        <div class="social-links">
+            <a href="https://www.roblox.com/" target="_blank" rel="noopener">Roblox</a>
+            <a href="https://www.tiktok.com/" target="_blank" rel="noopener">TikTok</a>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
